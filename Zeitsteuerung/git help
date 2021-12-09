@@ -1,0 +1,7 @@
+git config --global user.name "USERNAME"
+git config --global user.email "MAIL"
+git config --global credentail.helper cache
+
+git clone https://github.com/LTV2013/AutomaticWateringSystem.git
+
+wichtig wenn er euch nach dem pw fragt müsst ihr den token von github eingeben.
